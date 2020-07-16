@@ -23,6 +23,24 @@ header {
     color: #4b1e3d;
     font-size: 35px;
 }
+/* 
+.display {
+    width: 12%;
+    height: 5%;
+    margin-top: 80px;
+    margin-bottom: 70px;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    position: absolute;
+    background: #b82e8a ;
+    color: #ec8fd0;
+    font-size: 30px;
+    text-align: center;
+    left: 80%;
+    border: ridge #ec8fd0;
+    outline: thin;
+    font-family: 'Asap', sans-serif;
+} */
 
 input {
     width: 100%;
